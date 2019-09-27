@@ -1,4 +1,4 @@
-===Documentation for project "Transfer helper"===
+# Documentation for project "Transfer helper"
 
 Recuirement specification and Feature diagram are in Links
 
